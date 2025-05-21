@@ -92,10 +92,11 @@ python jogo.py
 - Arte:
   - Herói: *Próprio desenvolvedor*
   - Inimigo: *Próprio desenvolvedor* 
-- Áudio: *Créditos aos criadores dos sons utilizados*
+- Áudio: *[Criador dos sons utilizados](https://pixabay.com/)*
 
 ---
 
 ### Game
 
+![Image](https://github.com/user-attachments/assets/e0db607d-e84d-444a-bd9f-bf342448c0f2)
 
